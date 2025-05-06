@@ -1,3 +1,4 @@
 # mlops-zoomcamp
 
-my example
+I love this course!
+add some more text
